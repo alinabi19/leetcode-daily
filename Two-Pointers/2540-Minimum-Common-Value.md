@@ -169,3 +169,6 @@ public class Solution {
 
 ---
 
+## Interview Line
+
+Since both arrays are sorted, we can efficiently solve this using two pointers. At every step, we move the pointer having the smaller value because it can never become a valid answer later.
