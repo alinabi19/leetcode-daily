@@ -266,7 +266,6 @@ Found target.
 
 ## Modified Binary Search
 
----
 
 ## Signals for this pattern
 
