@@ -184,6 +184,8 @@ Answer:
 - Need maximum discount / minimum cost
 - Local optimal choices lead to global optimum
 
+--- 
+
 ## Complexity Analysis
 
 Let:
