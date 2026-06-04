@@ -467,5 +467,3 @@ public class Solution {
 }
 ```
 
-----
-**Tags:** Arrays, Greedy, Precomputation, Scheduling, Optimization
