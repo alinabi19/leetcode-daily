@@ -346,18 +346,3 @@ public class Solution {
     }
 }
 ```
-
----
-
-# Final Insight
-
-Instead of trying every possible rotation:
-
-- Observe the number of decreasing points
-- A valid rotated sorted array can only break ordering once
-
-That reduces the problem to a simple:
-
-```text
-Single pass observation problem
-```
